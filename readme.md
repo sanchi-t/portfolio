@@ -8,7 +8,7 @@ This website showcases my work and skills as a web developer. You can explore my
 
 ## Usage
 
-You can visit my portfolio website by clicking [here](https://www.yourportfolio.com).
+You can visit my portfolio website by clicking [here](https://sanchi-t.github.io/).
 
 ## Contact
 
