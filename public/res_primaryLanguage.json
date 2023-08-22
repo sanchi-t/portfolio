@@ -1,0 +1,122 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sanchit Sharma. , a web enthusiast with a passion for crafting digital wonders. I believe in the magic of turning code into captivating experiences. When I'm not immersed in pixels and lines of code, you might spot me enjoying a good book, exploring the great outdoors, or simply savoring a cup of coffee. Join me on this journey as we explore the digital landscapes I've built, one click at a time! Thank you 💜",
+      "section_name": {
+        "about": "About />",
+        "projects": "Projects />",
+        "skills": "Skills />",
+        "experience": "Experience />"
+      }
+    },
+    "projects": [
+      {
+        "title": "AirEvr",
+        "startDate": "2022",
+        "description": "Web application that addresses issues with electric vehicles by offering a variety of alternatives, like purchasing portable chargers and using Google Maps api to display local charging stations while keeping database records of all users and suppliers.",
+        "images": [
+          "images/portfolio/airev/p1.jpg",
+          "images/portfolio/airev/p2.jpg",
+          "images/portfolio/airev/p3.jpg",
+          "images/portfolio/airev/p4.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/AirEv",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "RENT IT OUT E-COMMERCE WEBSITE",
+        "startDate": "2022",
+        "description": "Rent it out, is an online shopping cart application.You can rent any furniture you want, anywhere you want for any time period. This is a geniune and native application to which you can rely on, specially when you want to get it done quickly. It comprises of many screens with different features to make the navigate smooth & user-friendly. All the code used, are well organized and layered to make the development precise event for a naive user. Code which is being used to model the application is composed of today's trend.",
+        "images": [
+          "images/portfolio/rentitout/p1.jpg",
+          "images/portfolio/rentitout/p2.jpg",
+          "images/portfolio/rentitout/p3.jpg",
+          "images/portfolio/rentitout/p4.jpg",
+          "images/portfolio/rentitout/p5.jpg",
+          "images/portfolio/rentitout/p6.jpg",
+          "images/portfolio/rentitout/p7.jpg",
+          "images/portfolio/rentitout/p8.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/rent-it-out",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "Text-to-handwriting",
+        "startDate": "2022",
+        "description": "The program aims at helping all those people who don’t have time to manually write a piece of text but need one, people who don’t have a good handwriting and want a text written in good readable handwriting and people who need handwritten text for any other reason.",
+        "images": [
+          "images/portfolio/text2handwriting/p1.jpg",
+          "images/portfolio/text2handwriting/p2.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/Text-to-handwriting",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-vscode-plain",
+            "name": "VsCode"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "FOOTOX FOOTWEAR PVT. LTD",
+        "title": "FullStack Intern + Managed Database",
+        "years": "Nov 2022 – April 2023",
+        "mainTech": [
+          "React",
+          "Nodejs",
+          "MongoDb",
+          "Express",
+          "AWS"
+        ],
+        "technologies": [
+          "REST API",
+          "React Redux",
+          "JavaScript",
+          "Bootstrap",
+          "jwt token authentication",
+          "Google sign in API",
+          "Database indexing",
+          "EC2 instance"
+        ]
+      }
+    ]
+  }

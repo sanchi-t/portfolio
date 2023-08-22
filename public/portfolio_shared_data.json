@@ -1,0 +1,90 @@
+{
+    "basic_info": {
+      "name": "Sanchit Sharma",
+      "titles": [ "Web Developer", "Cloud Computing", "Python Enthusiast", "Programmer at heart" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/sanchi-t",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/sanchit.dot/",
+          "class": "fab fa-instagram"
+        }
+        ,
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/sanchit-sharma-35740a172/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg",
+      "icon": "home-main.svg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "80"
+        }
+      ]
+    }
+  }
