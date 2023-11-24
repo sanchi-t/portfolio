@@ -41,6 +41,16 @@
           "level": "80"
         },
         {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
+          "level": "80"
+        },
+        {
           "name": "Nodejs",
           "class": "devicon-nodejs-plain",
           "level": "80"
@@ -76,6 +86,11 @@
           "level": "60"
         },
         {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
           "name": "MongoDb",
           "class": "devicon-mongodb-plain",
           "level": "60"
@@ -83,6 +98,16 @@
         {
           "name": "Git",
           "class": "devicon-git-plain",
+          "level": "80"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "80"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain",
           "level": "80"
         }
       ]

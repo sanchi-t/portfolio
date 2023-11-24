@@ -11,6 +11,127 @@
     },
     "projects": [
       {
+        "title": "Learnify",
+        "startDate": "2023",
+        "description": "Learnify is a comprehensive course recommendation platform that helps users embark on their learning journey with tailored guidance. Whether you're a beginner or an experienced learner, Learnify leverages AI and data science to recommend master courses, which are curated sets of courses designed to help you achieve your learning goals.",
+        "images": [
+          "images/portfolio/learnify/p1.jpg",
+          "images/portfolio/learnify/p2.jpg",
+          "images/portfolio/learnify/p3.jpg",
+          "images/portfolio/learnify/p4.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/Learnify",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angularjs"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-pandas-original",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgresSql"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "ColorSense",
+        "startDate": "2023",
+        "description": "ColorSense is an image processing application that allows users to upload an image, apply a segmentation algorithm based on k-means clustering, and customize the color of each segment using RGB values. The result is a transformed image with a unique and personalized look.",
+        "images": [
+          "images/portfolio/colorsense/p1.png",
+          "images/portfolio/colorsense/p2.png",
+          "images/portfolio/colorsense/p3.png",
+          "images/portfolio/colorsense/p4.png",
+          "images/portfolio/colorsense/p5.png"
+        ],
+        "url": "https://github.com/sanchi-t/ColorSense",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "VETCARE",
+        "startDate": "2023",
+        "description": "Vetcare is a comprehensive platform that connects pet owners with veterinary professionals from all around the country. This project is developed using the MERN stack technology, and various functionalities have been implemented to make it a professional website.In addition, Vetcare features an admin panel that allows for easy management of doctors and appointments, making it simple to keep track of your pet's healthcare needs.",
+        "images": [
+          "images/portfolio/vetcare/p1.png",
+          "images/portfolio/vetcare/p2.png",
+          "images/portfolio/vetcare/p3.png",
+          "images/portfolio/vetcare/p4.png",
+          "images/portfolio/vetcare/p5.png",
+          "images/portfolio/vetcare/p6.png"
+        ],
+        "url": "https://github.com/sanchi-t/Vetcare",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
         "title": "AirEvr",
         "startDate": "2022",
         "description": "Web application that addresses issues with electric vehicles by offering a variety of alternatives, like purchasing portable chargers and using Google Maps api to display local charging stations while keeping database records of all users and suppliers.",
