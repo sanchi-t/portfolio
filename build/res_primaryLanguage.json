@@ -1,0 +1,243 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sanchit Sharma. , a web enthusiast with a passion for crafting digital wonders. I believe in the magic of turning code into captivating experiences. When I'm not immersed in pixels and lines of code, you might spot me enjoying a good book, exploring the great outdoors, or simply savoring a cup of coffee. Join me on this journey as we explore the digital landscapes I've built, one click at a time! Thank you 💜",
+      "section_name": {
+        "about": "About />",
+        "projects": "Projects />",
+        "skills": "Skills />",
+        "experience": "Experience />"
+      }
+    },
+    "projects": [
+      {
+        "title": "Learnify",
+        "startDate": "2023",
+        "description": "Learnify is a comprehensive course recommendation platform that helps users embark on their learning journey with tailored guidance. Whether you're a beginner or an experienced learner, Learnify leverages AI and data science to recommend master courses, which are curated sets of courses designed to help you achieve your learning goals.",
+        "images": [
+          "images/portfolio/learnify/p1.jpg",
+          "images/portfolio/learnify/p2.jpg",
+          "images/portfolio/learnify/p3.jpg",
+          "images/portfolio/learnify/p4.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/Learnify",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angularjs"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-pandas-original",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgresSql"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "ColorSense",
+        "startDate": "2023",
+        "description": "ColorSense is an image processing application that allows users to upload an image, apply a segmentation algorithm based on k-means clustering, and customize the color of each segment using RGB values. The result is a transformed image with a unique and personalized look.",
+        "images": [
+          "images/portfolio/colorsense/p1.png",
+          "images/portfolio/colorsense/p2.png",
+          "images/portfolio/colorsense/p3.png",
+          "images/portfolio/colorsense/p4.png",
+          "images/portfolio/colorsense/p5.png"
+        ],
+        "url": "https://github.com/sanchi-t/ColorSense",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "VETCARE",
+        "startDate": "2023",
+        "description": "Vetcare is a comprehensive platform that connects pet owners with veterinary professionals from all around the country. This project is developed using the MERN stack technology, and various functionalities have been implemented to make it a professional website.In addition, Vetcare features an admin panel that allows for easy management of doctors and appointments, making it simple to keep track of your pet's healthcare needs.",
+        "images": [
+          "images/portfolio/vetcare/p1.png",
+          "images/portfolio/vetcare/p2.png",
+          "images/portfolio/vetcare/p3.png",
+          "images/portfolio/vetcare/p4.png",
+          "images/portfolio/vetcare/p5.png",
+          "images/portfolio/vetcare/p6.png"
+        ],
+        "url": "https://github.com/sanchi-t/Vetcare",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "AirEvr",
+        "startDate": "2022",
+        "description": "Web application that addresses issues with electric vehicles by offering a variety of alternatives, like purchasing portable chargers and using Google Maps api to display local charging stations while keeping database records of all users and suppliers.",
+        "images": [
+          "images/portfolio/airev/p1.jpg",
+          "images/portfolio/airev/p2.jpg",
+          "images/portfolio/airev/p3.jpg",
+          "images/portfolio/airev/p4.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/AirEv",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          }
+        ]
+      },
+      {
+        "title": "RENT IT OUT E-COMMERCE WEBSITE",
+        "startDate": "2022",
+        "description": "Rent it out, is an online shopping cart application.You can rent any furniture you want, anywhere you want for any time period. This is a geniune and native application to which you can rely on, specially when you want to get it done quickly. It comprises of many screens with different features to make the navigate smooth & user-friendly. All the code used, are well organized and layered to make the development precise event for a naive user. Code which is being used to model the application is composed of today's trend.",
+        "images": [
+          "images/portfolio/rentitout/p1.jpg",
+          "images/portfolio/rentitout/p2.jpg",
+          "images/portfolio/rentitout/p3.jpg",
+          "images/portfolio/rentitout/p4.jpg",
+          "images/portfolio/rentitout/p5.jpg",
+          "images/portfolio/rentitout/p6.jpg",
+          "images/portfolio/rentitout/p7.jpg",
+          "images/portfolio/rentitout/p8.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/rent-it-out",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "Text-to-handwriting",
+        "startDate": "2022",
+        "description": "The program aims at helping all those people who don’t have time to manually write a piece of text but need one, people who don’t have a good handwriting and want a text written in good readable handwriting and people who need handwritten text for any other reason.",
+        "images": [
+          "images/portfolio/text2handwriting/p1.jpg",
+          "images/portfolio/text2handwriting/p2.jpg"
+        ],
+        "url": "https://github.com/sanchi-t/Text-to-handwriting",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-vscode-plain",
+            "name": "VsCode"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "FOOTOX FOOTWEAR PVT. LTD",
+        "title": "FullStack Intern + Managed Database",
+        "years": "Nov 2022 – April 2023",
+        "mainTech": [
+          "React",
+          "Nodejs",
+          "MongoDb",
+          "Express",
+          "AWS"
+        ],
+        "technologies": [
+          "REST API",
+          "React Redux",
+          "JavaScript",
+          "Bootstrap",
+          "jwt token authentication",
+          "Google sign in API",
+          "Database indexing",
+          "EC2 instance"
+        ]
+      }
+    ]
+  }
