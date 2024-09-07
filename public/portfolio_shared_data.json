@@ -109,6 +109,46 @@
           "name": "Kubernetes",
           "class": "devicon-kubernetes-plain",
           "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "Spring Boot",
+          "class": "devicon-spring-plain",
+          "level": "80"
+        },
+        {
+          "name": "Helm",
+          "class": "devicon-helm-plain",
+          "level": "80"
+        },
+        {
+          "name": "CircleCI",
+          "class": "devicon-circleci-plain",
+          "level": "80"
+        },
+        {
+          "name": "Camel",
+          "class": "devicon-ocaml-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "80"
+        },
+        {
+          "name": "Elastic Search",
+          "class": "devicon-elasticsearch-plain",
+          "level": "80"
+        },
+        {
+          "name": "Handlebars",
+          "class": "devicon-handlebars-plain",
+          "level": "80"
         }
       ]
     }
