@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sanchit Sharma. , a web enthusiast with a passion for crafting digital wonders. I believe in the magic of turning code into captivating experiences. When I'm not immersed in pixels and lines of code, you might spot me enjoying a good book, exploring the great outdoors, or simply savoring a cup of coffee. Join me on this journey as we explore the digital landscapes I've built, one click at a time! Thank you 💜",
+      "description": "👋 I'm Sanchit Sharma, a web enthusiast with a passion for crafting digital wonders. I believe in the magic of turning code into captivating experiences. When I'm not immersed in pixels and lines of code, you might spot me enjoying a good book, exploring the great outdoors, or simply savoring a cup of coffee. Join me on this journey as we explore the digital landscapes I've built, one click at a time! Thank you 💜",
       "section_name": {
         "about": "About />",
         "projects": "Projects />",
@@ -217,6 +217,54 @@
       }
     ],
     "experience": [
+      {
+        "company": "Zulip (Google Summer Of Code)",
+        "title": "Software Developer Intern",
+        "years": "June 2024 – Sept 2024",
+        "mainTech": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Django",
+          "Handlebars"
+        ],
+        "technologies": [
+          "REST API",
+          "Unit Tests",
+          "Backend Development",
+          "Frontend Development",
+          "Bug fixing",
+          "Code Review",
+          "Documentation",
+          "Open Source Contribution",
+          "Feature Development"
+        ]
+      },
+      {
+        "company": "Fynarfin Tech Pvt Ltd",
+        "title": "Software Developer Intern",
+        "years": "June 2024 – Sept 2024",
+        "mainTech": [
+          "Spring Boot",
+          "CircleCI",
+          "Helm",
+          "Docker",
+          "Kubernetes",
+          "Zeebe",
+          "Jherkins",
+          "Camel"
+        ],
+        "technologies": [
+          "REST API",
+          "Cucumber Tests",
+          "Deployment",
+          "DevOps",
+          "Connectors",
+          "Microservices",
+          "Elastic Search",
+          "Orchestration"
+        ]
+      },
       {
         "company": "FOOTOX FOOTWEAR PVT. LTD",
         "title": "FullStack Intern + Managed Database",
