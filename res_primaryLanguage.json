@@ -218,6 +218,26 @@
     ],
     "experience": [
       {
+          "company": "S&P Global",
+          "title": "Software Developer Intern",
+          "years": "February 2025 - Present",
+          "mainTech": [
+              ".NET",
+              "C#",
+              "SQL",
+              "WPF",
+              "Azure pipelines"
+          ],
+          "technologies": [
+              "API Creation",
+              "Backend Development",
+              "Bug fixing",
+              "Unit Tests",
+              "E2E Tests"
+          ]
+    
+      },
+      {
         "company": "Zulip (Google Summer Of Code)",
         "title": "Software Developer Intern",
         "years": "June 2024 – Sept 2024",
