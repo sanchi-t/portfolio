@@ -141,13 +141,13 @@
           "level": "80"
         },
         {
-          "name": "Elastic Search",
-          "class": "devicon-elasticsearch-plain",
+          "name": ".NET",
+          "class": "devicon-dotnetcore-plain",
           "level": "80"
         },
         {
-          "name": "Handlebars",
-          "class": "devicon-handlebars-plain",
+          "name": "C#",
+          "class": "devicon-csharp-plain",
           "level": "80"
         }
       ]
